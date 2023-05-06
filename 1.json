@@ -1,53 +1,111 @@
 {
-  "Ads": [
-    {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"",
-      "backup_ads_natives":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
-      "open_ads_admob":"",
-      "open_ads_alien":"",
-      "switch_open_ads":"1",
-      "switch_banner_natives_ads":"",
-      "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
-      "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "status_app": "0",
-      "link_redirect": "https://"
-    }
-  ],
-   "More": [
-    {
-      "id": 1,
-      "title": "IQ Test vs The Moron Test",
-      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
-    }
-  ],
-  "Categories": [
-    {
-      "id": 1,
-      "name_category": "Playstore",
-      "image": "file:///android_asset/image/image1.png"
-    }
-  ],
-  "Data": [
-    {
-      "id": 1,
-      "name_category": "Playstore",
-      "title": "Cara mengisi Form Data Safety",
-      "image": "file:///android_asset/image/guide1.jpg",
-      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
-      "link": "file:///android_asset/guide/guide1.html"
-    }
-  ]
-}
+    "Ads": [
+      {
+        "select_main_ads": "ADMOB",
+        "select_backup_ads":"APPLOVIN-D",
+        "main_ads_banner": "ca-app-pub-8799090825709075/8652257235",
+        "main_ads_intertitial":"ca-app-pub-8799090825709075/9707739482",
+        "main_ads_natives":"",
+        "backup_ads_natives":"",
+        "backup_ads_banner":"",
+        "backup_ads_intertitial":"",
+        "open_ads_admob":"ca-app-pub-8799090825709075/3591502240",
+        "open_ads_alien":"",
+        "switch_open_ads":"1",
+        "switch_banner_natives_ads":"",
+        "interval_intertitial": 3,
+        "initialize_sdk":"",
+        "initialize_sdk_backup_ads":"",
+        "high_paying_keyword_1": "investasi",
+        "high_paying_keyword_2": "pinjaman",
+        "high_paying_keyword_3": "saham",
+        "high_paying_keyword_4": "crypto",
+        "high_paying_keyword_5": "penghasilan",
+        "status_app": "0",
+        "link_redirect": "https://ptmencaricintasejati.com"
+      }
+   ],
+    "Data": [
+      {
+        "id": 3,
+        "name_category": "Tentang pinjol 1 bulan",
+        "title": "Apa itu pinjol 1 bulan?",
+        "image": "file:///android_asset/b2.png",
+        "description": "Tentang pinjol 1 bulan",
+        "link": "pinjol 1 bulan atau pinjaman online adalah jenis pinjaman yang dapat diakses melalui aplikasi atau website. pinjol 1 bulan umumnya menawarkan pinjaman dengan jumlah kecil dan tenor pendek yang bisa dicicil secara harian atau mingguan. Namun, perlu diperhatikan bahwa penggunaan pinjaman online harus dilakukan dengan hati-hati dan bijak. Beberapa hal yang perlu diperhatikan sebelum mengambil pinjaman online antara lain:Baca dan pahami syarat dan ketentuan serta bunga yang ditetapkan oleh penyedia pinjaman online. Pastikan Anda mampu membayar cicilan pinjaman sesuai jangka waktu yang ditetapkan dan hindari meminjam lebih dari kemampuan Anda. Hindari meminjam dari banyak sumber atau pinjaman online yang tidak jelas karena dapat menimbulkan masalah finansial yang lebih besar. Pertimbangkan opsi lain seperti meminjam dari keluarga atau teman atau memanfaatkan pinjaman bank yang bunga dan jangka waktunya lebih terjangkau. Pemerintah Indonesia telah menetapkan aturan dan regulasi yang mengatur industri pinjaman online, seperti Peraturan Otoritas Jasa Keuangan (POJK) Nomor 77/POJK.01/2016 tentang Layanan Pinjam Meminjam Uang Berbasis Teknologi Informasi. Oleh karena itu, pastikan Anda mengambil pinjaman online hanya dari penyedia layanan yang terdaftar dan terdaftar secara resmi oleh pihak berwenang."
+      },
+      {
+        "id": 1,
+        "name_category": "Tutorial",
+        "title": "Bagaimana mengajukan pinjol 1 bulan?",
+        "image": "file:///android_asset/b2.png",
+        "description": "Cara mengajukan pinjol 1 bulan",
+        "link": "Untuk mengajukan pinjaman online, Anda perlu mengikuti langkah-langkah berikut: Pilih penyedia pinjaman online yang sesuai dengan kebutuhan Anda. Pastikan untuk membaca dan memahami syarat dan ketentuan serta bunga yang ditetapkan oleh penyedia pinjaman online. Unduh dan instal aplikasi pinjaman online yang dipilih. Biasanya, aplikasi pinjaman online dapat diunduh dari Google Play Store atau App Store. Buat akun dengan mengisi data pribadi dan informasi yang dibutuhkan oleh penyedia pinjaman online. Pastikan informasi yang dimasukkan benar dan sesuai dengan dokumen identitas resmi.  Setelah mendaftar, Anda dapat mengajukan pinjaman dengan memilih jumlah pinjaman dan jangka waktu yang diinginkan. Setelah mengajukan pinjaman, Anda perlu menunggu persetujuan dari penyedia pinjaman online. Biasanya, persetujuan akan diberikan dalam waktu kurang dari 24 jam. Jika pinjaman disetujui, dana pinjaman akan ditransfer ke rekening bank yang telah terdaftar pada saat pengajuan pinjaman. Pastikan untuk membaca dan memahami seluruh syarat dan ketentuan sebelum mengajukan pinjaman online. Juga, pastikan Anda mampu membayar cicilan pinjaman sesuai jangka waktu yang ditetapkan."
+      },
+      {
+        "id": 2,
+        "name_category": "Tutorial",
+        "title": "Resiko pinjol 1 bulan seperti apa?",
+        "image": "file:///android_asset/b2.png",
+        "description": "Resiko pinjol 1 bulan",
+        "link": "Pinjaman online atau pinjol 1 bulan memiliki beberapa risiko yang perlu dipertimbangkan sebelum mengambilnya, antara lain: Bunga yang tinggi. Bunga pada pinjol 1 bulan cenderung lebih tinggi dibandingkan dengan pinjaman dari bank atau lembaga keuangan resmi lainnya. Oleh karena itu, pastikan Anda memahami besaran bunga yang akan dikenakan pada pinjol 1 bulan dan mampu membayar cicilan secara tepat waktu. Risiko identitas tercuri. pinjol 1 bulan meminta informasi pribadi seperti nomor KTP, nomor rekening bank, dan lain sebagainya. Risiko identitas tercuri bisa terjadi jika informasi tersebut jatuh ke tangan pihak yang tidak bertanggung jawab. Biaya tambahan. Selain bunga, pinjol 1 bulan juga dapat mengenakan biaya tambahan seperti biaya administrasi, biaya keterlambatan pembayaran, dan biaya lainnya. Pastikan Anda memahami seluruh biaya yang dikenakan dan mampu membayarnya. Jatuh ke dalam lingkaran utang. pinjol 1 bulan yang mudah diakses dan dapat dicicil dalam waktu singkat dapat menimbulkan risiko jatuh ke dalam lingkaran utang. Pastikan Anda memahami kemampuan finansial dan tidak meminjam lebih dari kemampuan Anda. Penagihan yang agresif. Beberapa penyedia pinjaman online dapat menagih secara agresif jika cicilan tidak dibayarkan tepat waktu. Hal ini bisa menimbulkan stres dan masalah keuangan yang lebih besar. Oleh karena itu, sebelum mengambil pinjaman online, pastikan Anda memahami risiko-risiko tersebut dan hanya meminjam jika benar-benar diperlukan serta mampu membayar cicilan tepat waktu."
+      },
+      {
+        "id": 4,
+        "name_category": "Tutorial",
+        "title": "Apa pinjol 1 bulan bisa cair?",
+        "image": "file:///android_asset/b2.png",
+        "description": "Apakah Bisa Cair",
+        "link": "Ya, pinjaman online atau pinjol 1 bulan dapat cair setelah permohonan disetujui oleh penyedia pinjaman online. Biasanya, proses persetujuan hanya memakan waktu beberapa jam atau maksimal satu hari kerja setelah Anda mengajukan permohonan. Setelah disetujui, dana pinjaman akan langsung ditransfer ke rekening bank yang telah terdaftar pada saat pengajuan pinjaman. Waktu pencairan dana juga bisa bervariasi tergantung pada penyedia pinjaman online yang Anda pilih. Namun, pastikan Anda memahami seluruh syarat dan ketentuan serta bunga yang ditetapkan oleh penyedia pinjaman online sebelum mengajukan permohonan."
+      },
+      {
+        "id": 5,
+        "name_category": "Tutorial pinjol 1 bulan",
+        "title": "Cara pinjol 1 bulan ke Wallet",
+        "image": "file:///android_asset/b2.png",
+        "description": "pinjol 1 bulan ke Wallet",
+        "link": "Beberapa penyedia pinjaman online atau pinjol 1 bulan memungkinkan nasabahnya untuk mencairkan pinjaman ke dalam bentuk saldo di dompet digital atau wallet. Cara ini dapat memudahkan nasabah dalam penggunaan dana pinjaman, karena dapat langsung digunakan untuk bertransaksi online atau membayar tagihan melalui dompet digital. Namun, tidak semua penyedia pinjaman online menyediakan opsi ini dan syarat serta ketentuannya bisa bervariasi. Oleh karena itu, sebaiknya Anda membaca syarat dan ketentuan secara teliti sebelum memutuskan untuk mengajukan pinjaman dan mencairkannya ke dalam bentuk saldo di dompet digital atau wallet."
+      },
+      {
+        "id": 6,
+        "name_category": "Tutorial",
+        "title": "Apakah pinjol 1 bulan ditagih ?",
+        "image": "file:///android_asset/b2.png",
+        "description": "Apa pinjol 1 bulan di tagih ?",
+        "link": "Ya, pinjaman online atau pinjol 1 bulan bisa ditagih oleh penyedia pinjaman atau pihak ketiga yang ditunjuk. Jika Anda mengambil pinjaman online dan gagal membayar cicilan tepat waktu, penyedia pinjaman atau pihak ketiga yang ditunjuk dapat menagih melalui telepon, SMS, atau email. Selain itu, beberapa penyedia pinjaman online dapat melakukan penagihan melalui jasa kolektor atau debt collector. Namun, metode penagihan yang agresif dan mengganggu privasi nasabah dilarang dan melanggar hukum. Oleh karena itu, pastikan Anda membaca dengan teliti syarat dan ketentuan, serta memilih penyedia pinjaman online yang terpercaya dan memiliki reputasi baik untuk menghindari masalah penagihan yang tidak menyenangkan di kemudian hari."
+      },
+      {
+        "id": 7,
+        "name_category": "Tutorial",
+        "title": "Rekomendasi pinjol 1 bulan?",
+        "image": "file:///android_asset/b2.png",
+        "description": "Inipinjol 1 bulan Rekomendasinya",
+        "description": "Ini  Rekomendasinya",
+        "link": " sebelum mengajukan pinjaman online, pastikan Anda memeriksa reputasi dan legalitas penyedia pinjaman tersebut dengan teliti. Beberapa hal yang perlu diperhatikan antara lain: Bunga dan biaya yang ditetapkan: Pastikan Anda memahami besaran bunga dan biaya yang dikenakan oleh penyedia pinjaman dan pastikan sesuai dengan kemampuan Anda dalam membayar. Syarat dan ketentuan: Bacalah dengan teliti syarat dan ketentuan yang berlaku, termasuk waktu pembayaran, denda keterlambatan, dan hal-hal lain yang berkaitan dengan pinjaman.Keamanan data pribadi: Pastikan penyedia pinjaman online memiliki standar keamanan yang memadai untuk melindungi data pribadi Anda. Reputasi penyedia pinjaman: Cari tahu reputasi penyedia pinjaman online tersebut dengan membaca ulasan dan pengalaman nasabah sebelumnya. Legalitas: Pastikan penyedia pinjaman online yang Anda pilih terdaftar dan diawasi oleh otoritas yang berwenang. Sebelum mengajukan pinjaman online, sebaiknya Anda mempertimbangkan dengan matang dan memilih penyedia pinjaman online yang terpercaya dan sesuai dengan kebutuhan dan kemampuan keuangan Anda."
+      },
+      {
+        "id": 8,
+        "name_category": "Tutorial",
+        "title": "keuntungan menggunakan pinjol 1 bulan?",
+        "image": "file:///android_asset/b2.png",
+        "description": "Berikut ini beberapa keuntungannya pinjol 1 bulan yang perlu kamu ketahui.",
+        "link": "Beberapa keuntungan yang dapat Anda dapatkan dengan menggunakan pinjaman online atau pinjol 1 bulan antara lain:Proses pengajuan yang mudah: Anda dapat mengajukan pinjaman secara online dengan cepat dan mudah tanpa perlu mengunjungi kantor fisik penyedia pinjaman.Persyaratan yang mudah dipenuhi: Sebagian besar penyedia pinjaman online memiliki persyaratan yang mudah dipenuhi, seperti memiliki KTP dan rekening bank, sehingga dapat membantu mempercepat proses pengajuan pinjaman.Tidak perlu jaminan: Biasanya, pinjaman online tidak memerlukan jaminan atau agunan sehingga Anda tidak perlu repot mengurus dan menyiapkan jaminan atau agunan. Bunga dan biaya yang terjangkau: Beberapa penyedia pinjaman online menawarkan bunga dan biaya yang terjangkau dibandingkan dengan pinjaman dari bank atau lembaga keuangan lainnya. Fleksibilitas: Anda dapat memilih tenor dan jumlah pinjaman yang sesuai dengan kebutuhan dan kemampuan keuangan Anda. Meskipun pinjaman online dapat memberikan keuntungan-keuntungan tersebut, tetaplah berhati-hati dan bijak dalam menggunakannya. Pastikan Anda memahami sepenuhnya syarat dan ketentuan serta memilih penyedia pinjaman online yang terpercaya dan memiliki reputasi baik untuk menghindari masalah di kemudian hari."
+      },
+      {
+        "id": 9,
+        "name_category": "Tutorial",
+        "title": "Kerugian pinjol 1 bulan",
+        "image": "file:///android_asset/b2.png",
+        "description": "Berikut kerugiannya pinjol 1 bulan",
+        "link": "Meskipun pinjaman online atau pinjol 1 bulan memiliki keuntungan-keuntungan tertentu, namun juga terdapat beberapa kerugian yang perlu diperhatikan, antara lain: Bunga dan biaya yang tinggi: Beberapa penyedia pinjaman online menetapkan bunga dan biaya yang tinggi dibandingkan dengan pinjaman dari lembaga keuangan resmi seperti bank. Terjerat dalam utang: Jika Anda tidak hati-hati dalam mengelola pinjaman, maka Anda dapat terjebak dalam utang yang sulit untuk diatasi. Resiko penyalahgunaan data pribadi: Saat mengajukan pinjaman online, Anda akan diminta untuk memberikan informasi pribadi seperti nomor KTP dan rekening bank, sehingga ada resiko data Anda disalahgunakan. Tidak terdaftar dan tidak diawasi: Sebagian penyedia pinjaman online tidak terdaftar dan diawasi oleh otoritas keuangan yang berwenang, sehingga resiko terjadinya praktik ilegal atau penipuan lebih besar. Keterlambatan pembayaran dan denda: Jika terjadi keterlambatan dalam pembayaran cicilan, maka Anda akan dikenakan denda yang cukup besar. Sebelum mengajukan pinjaman online, pastikan Anda mempertimbangkan secara matang dan memilih penyedia pinjaman yang terpercaya dan memiliki reputasi baik. Bacalah dengan teliti syarat dan ketentuan yang berlaku serta pastikan Anda dapat membayar cicilan sesuai dengan jadwal yang telah ditentukan."
+      },
+      {
+        "id": 10,
+        "name_category": "Tutorial",
+        "title": "Hadist Tentang pinjol 1 bulan ",
+        "image": "file:///android_asset/b2.png",
+        "description": "Ini Hadistnya pinjol 1 bulan",
+        "link": "Berikut adalah beberapa hadits terkait riba: Dalam sebuah hadits yang diriwayatkan oleh Imam Bukhari dan Muslim, Rasulullah SAW bersabda: Riba terbagi menjadi 73bagian, di antaranya yang paling ringan sama dengan seseorang menikahi ibu kandungnya sendiri. Dalam hadits yang diriwayatkan oleh Imam Muslim, Rasulullah SAW bersabda: Tiga orang yang Allah tidak akan berbicara dengannya pada hari kiamat dan tidak akan memandangnya dan tidak akan mensucikannya, dan bagi mereka siksa yang pedih: seorang yang meminta dengan tidak halal, seorang yang menjual dengan sumpah palsu dan seorang yang memberikan pinjaman dengan riba. Dalam sebuah hadits yang diriwayatkan oleh Imam Ahmad, Rasulullah SAW bersabda: Makanan yang haram, pakaian yang haram, dan uang yang diperoleh dari riba, semuanya tidak akan diterima oleh Allah. Dari hadits-hadits tersebut, dapat disimpulkan bahwa riba merupakan hal yang sangat dilarang dalam Islam dan mendatangkan dosa besar bagi yang melakukannya. Sebagai umat Islam, kita diharapkan untuk menghindari riba dan selalu mencari jalan yang halal dalam mencari nafkah. Mending pinjam teman atau saudara"
+      }
+    ]
+  }
